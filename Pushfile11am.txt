@@ -1,1 +1,1 @@
-Java is a object oriented programming language
+Javascript is a object oriented programming language
